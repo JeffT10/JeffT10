@@ -2,7 +2,7 @@
 **A student passionate about Data Science!**
 
 - 🌱 I'm currently learning **Machine Learning, Data Structures and Algorithms**
-- 📫 How to reach me [**jeffreypault@gmail.com**](mailto:jeffreypault@gmail.com) or [**jeffreyt@udel.edu**](mailto:jeffreyt@udel.edu)
+- 📫 How to reach me [**jeffreypault@gmail.com**](mailto:jeffreypault@gmail.com)
 - 📄 My Resume: [Link](https://drive.google.com/file/d/1fSfLOudkeitNO1vwK7Te9qM3iNtcNuDZ/view?usp=drive_link)
 - **Connect with me:** <a href="https://www.linkedin.com/in/jeffrey-tolmachewich10"><img alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="20" width="20"></a>
 
