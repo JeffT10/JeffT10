@@ -1,5 +1,5 @@
 ## Hi there, I'm Jeffrey Tolmachewich 👋
-**A student passionate about Data Science!**
+**A recent University of Delaware graduate passionate about Data Science!**
 
 - 🌱 I'm currently learning **Machine Learning, Data Structures and Algorithms**
 - 📫 How to reach me [**jeffreypault@gmail.com**](mailto:jeffreypault@gmail.com)
